@@ -1,0 +1,554 @@
+num__PassengerId
+num__Fare
+cat__Name_Abelson, Mr. Samuel
+cat__Name_Abelson, Mrs. Samuel (Hannah Wizosky)
+cat__Name_Adams, Mr. John
+cat__Name_Ahlin, Mrs. Johan (Johanna Persdotter Larsson)
+cat__Name_Ali, Mr. William
+cat__Name_Allen, Mr. William Henry
+cat__Name_Allum, Mr. Owen George
+cat__Name_Anderson, Mr. Harry
+cat__Name_Andersson, Miss. Erna Alexandra
+cat__Name_Andrews, Mr. Thomas Jr
+cat__Name_Asplund, Miss. Lillian Gertrud
+cat__Name_Backstrom, Mr. Karl Alfred
+cat__Name_Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)
+cat__Name_Baclini, Miss. Eugenie
+cat__Name_Badt, Mr. Mohamed
+cat__Name_Barton, Mr. David John
+cat__Name_Bateman, Rev. Robert James
+cat__Name_Becker, Master. Richard F
+cat__Name_Beckwith, Mr. Richard Leonard
+cat__Name_Beckwith, Mrs. Richard Leonard (Sallie Monypeny)
+cat__Name_Beesley, Mr. Lawrence
+cat__Name_Bengtsson, Mr. John Viktor
+cat__Name_Bing, Mr. Lee
+cat__Name_Boulos, Mr. Hanna
+cat__Name_Bourke, Mr. John
+cat__Name_Bowerman, Miss. Elsie Edith
+cat__Name_Brewe, Dr. Arthur Jackson
+cat__Name_Brown, Miss. Amelia "Mildred"
+cat__Name_Brown, Mrs. James Joseph (Margaret Tobin)
+cat__Name_Burke, Mr. Jeremiah
+cat__Name_Burns, Miss. Elizabeth Margaret
+cat__Name_Buss, Miss. Kate
+cat__Name_Cacic, Mr. Luka
+cat__Name_Calderhead, Mr. Edward Pennington
+cat__Name_Canavan, Miss. Mary
+cat__Name_Cardeza, Mr. Thomas Drake Martinez
+cat__Name_Carter, Miss. Lucile Polk
+cat__Name_Carter, Mrs. William Ernest (Lucile Polk)
+cat__Name_Carter, Rev. Ernest Courtenay
+cat__Name_Celotti, Mr. Francesco
+cat__Name_Chambers, Mr. Norman Campbell
+cat__Name_Chambers, Mrs. Norman Campbell (Bertha Griggs)
+cat__Name_Cherry, Miss. Gladys
+cat__Name_Chip, Mr. Chang
+cat__Name_Clifford, Mr. George Quincy
+cat__Name_Coleff, Mr. Peju
+cat__Name_Coleridge, Mr. Reginald Charles
+cat__Name_Collyer, Miss. Marjorie "Lottie"
+cat__Name_Collyer, Mr. Harvey
+cat__Name_Connaghton, Mr. Michael
+cat__Name_Connors, Mr. Patrick
+cat__Name_Corn, Mr. Harry
+cat__Name_Cribb, Mr. John Hatfield
+cat__Name_Cumings, Mrs. John Bradley (Florence Briggs Thayer)
+cat__Name_Daly, Mr. Eugene Patrick
+cat__Name_Danbom, Mr. Ernst Gilbert
+cat__Name_Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)
+cat__Name_Davidson, Mr. Thornton
+cat__Name_Davies, Mr. Charles Henry
+cat__Name_Dean, Mr. Bertram Frank
+cat__Name_Dennis, Mr. Samuel
+cat__Name_Dooley, Mr. Patrick
+cat__Name_Dorking, Mr. Edward Arthur
+cat__Name_Edvardsson, Mr. Gustaf Hjalmar
+cat__Name_Eitemiller, Mr. George Floyd
+cat__Name_Eklund, Mr. Hans Linus
+cat__Name_Elias, Mr. Tannous
+cat__Name_Fahlstrom, Mr. Arne Jonas
+cat__Name_Farrell, Mr. James
+cat__Name_Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)
+cat__Name_Ford, Miss. Robina Maggie "Ruby"
+cat__Name_Foreman, Mr. Benjamin Laventall
+cat__Name_Frolicher-Stehli, Mr. Maxmillian
+cat__Name_Futrelle, Mrs. Jacques Heath (Lily May Peel)
+cat__Name_Fynney, Mr. Joseph J
+cat__Name_Garside, Miss. Ethel
+cat__Name_Gaskell, Mr. Alfred
+cat__Name_Gill, Mr. John William
+cat__Name_Gillespie, Mr. William Henry
+cat__Name_Goldsmith, Mr. Frank John
+cat__Name_Goldsmith, Mrs. Frank John (Emily Alice Brown)
+cat__Name_Goodwin, Master. Harold Victor
+cat__Name_Goodwin, Master. William Frederick
+cat__Name_Goodwin, Miss. Lillian Amy
+cat__Name_Goodwin, Mr. Charles Edward
+cat__Name_Graham, Miss. Margaret Edith
+cat__Name_Greenberg, Mr. Samuel
+cat__Name_Hagland, Mr. Konrad Mathias Reiersen
+cat__Name_Hakkarainen, Mr. Pekka Pietari
+cat__Name_Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)
+cat__Name_Harper, Mr. Henry Sleeper
+cat__Name_Harper, Mrs. Henry Sleeper (Myna Haxtun)
+cat__Name_Harper, Rev. John
+cat__Name_Harrington, Mr. Charles H
+cat__Name_Harris, Mr. George
+cat__Name_Harris, Mr. Henry Birkhardt
+cat__Name_Harris, Mr. Walter
+cat__Name_Hart, Mr. Henry
+cat__Name_Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+cat__Name_Hassab, Mr. Hammad
+cat__Name_Hawksford, Mr. Walter James
+cat__Name_Healy, Miss. Hanora "Nora"
+cat__Name_Hegarty, Miss. Hanora "Nora"
+cat__Name_Hendekovic, Mr. Ignjac
+cat__Name_Henry, Miss. Delia
+cat__Name_Herman, Miss. Alice
+cat__Name_Hippach, Mrs. Louis Albert (Ida Sophia Fischer)
+cat__Name_Hold, Mr. Stephen
+cat__Name_Holverson, Mr. Alexander Oskar
+cat__Name_Holverson, Mrs. Alexander Oskar (Mary Aline Towner)
+cat__Name_Honkanen, Miss. Eliina
+cat__Name_Hosono, Mr. Masabumi
+cat__Name_Humblen, Mr. Adolf Mathias Nicolai Olsen
+cat__Name_Ibrahim Shawah, Mr. Yousseff
+cat__Name_Icard, Miss. Amelie
+cat__Name_Isham, Miss. Ann Elizabeth
+cat__Name_Jacobsohn, Mr. Sidney Samuel
+cat__Name_Jarvis, Mr. John Denzil
+cat__Name_Johanson, Mr. Jakob Alfred
+cat__Name_Johansson, Mr. Erik
+cat__Name_Johnson, Miss. Eleanor Ileen
+cat__Name_Johnson, Mr. Alfred
+cat__Name_Jussila, Miss. Mari Aina
+cat__Name_Jussila, Mr. Eiriik
+cat__Name_Karaic, Mr. Milan
+cat__Name_Kassem, Mr. Fared
+cat__Name_Keefe, Mr. Arthur
+cat__Name_Kent, Mr. Edward Austin
+cat__Name_Kink, Mr. Vincenz
+cat__Name_Kink-Heilmann, Miss. Luise Gretchen
+cat__Name_Klaber, Mr. Herman
+cat__Name_Klasen, Mr. Klas Albin
+cat__Name_Knight, Mr. Robert J
+cat__Name_Kraeff, Mr. Theodor
+cat__Name_Laitinen, Miss. Kristina Sofia
+cat__Name_Laleff, Mr. Kristo
+cat__Name_Landergren, Miss. Aurora Adelia
+cat__Name_Lang, Mr. Fang
+cat__Name_Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)
+cat__Name_LeRoy, Miss. Bertha
+cat__Name_Leinonen, Mr. Antti Gustaf
+cat__Name_Lennon, Mr. Denis
+cat__Name_Lester, Mr. James
+cat__Name_Lewy, Mr. Ervin G
+cat__Name_Leyson, Mr. Robert William Norman
+cat__Name_Lindahl, Miss. Agda Thorilda Viktoria
+cat__Name_Lindblom, Miss. Augusta Charlotta
+cat__Name_Lobb, Mr. William Arthur
+cat__Name_Lobb, Mrs. William Arthur (Cordelia K Stanlick)
+cat__Name_Lundahl, Mr. Johan Svensson
+cat__Name_Lurette, Miss. Elise
+cat__Name_Madill, Miss. Georgette Alexandra
+cat__Name_Madsen, Mr. Fridtjof Arne
+cat__Name_Maioni, Miss. Roberta
+cat__Name_Mamee, Mr. Hanna
+cat__Name_Marechal, Mr. Pierre
+cat__Name_Markoff, Mr. Marin
+cat__Name_Marvin, Mr. Daniel Warner
+cat__Name_Matthews, Mr. William John
+cat__Name_Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")
+cat__Name_McCarthy, Mr. Timothy J
+cat__Name_McEvoy, Mr. Michael
+cat__Name_McGowan, Miss. Anna "Annie"
+cat__Name_Meanwell, Miss. (Marion Ogden)
+cat__Name_Meek, Mrs. Thomas (Annie Louise Rowley)
+cat__Name_Mellors, Mr. William John
+cat__Name_Meyer, Mr. Edgar Joseph
+cat__Name_Milling, Mr. Jacob Christian
+cat__Name_Mionoff, Mr. Stoytcho
+cat__Name_Mitkoff, Mr. Mito
+cat__Name_Moen, Mr. Sigurd Hansen
+cat__Name_Molson, Mr. Harry Markland
+cat__Name_Moraweck, Dr. Ernest
+cat__Name_Morley, Mr. Henry Samuel ("Mr Henry Marshall")
+cat__Name_Morrow, Mr. Thomas Rowan
+cat__Name_Mullens, Miss. Katherine "Katie"
+cat__Name_Murdlin, Mr. Joseph
+cat__Name_Myhrman, Mr. Pehr Fabian Oliver Malkolm
+cat__Name_Naidenoff, Mr. Penko
+cat__Name_Nasser, Mr. Nicholas
+cat__Name_Nasser, Mrs. Nicholas (Adele Achem)
+cat__Name_Navratil, Master. Edmond Roger
+cat__Name_Nicholls, Mr. Joseph Charles
+cat__Name_Nicola-Yarred, Master. Elias
+cat__Name_Nilsson, Miss. Helmina Josefina
+cat__Name_Niskanen, Mr. Juha
+cat__Name_Nosworthy, Mr. Richard Cater
+cat__Name_Novel, Mr. Mansouer
+cat__Name_O'Connor, Mr. Maurice
+cat__Name_O'Dwyer, Miss. Ellen "Nellie"
+cat__Name_Osen, Mr. Olaf Elon
+cat__Name_Padro y Manent, Mr. Julian
+cat__Name_Palsson, Miss. Stina Viola
+cat__Name_Palsson, Miss. Torborg Danira
+cat__Name_Palsson, Mrs. Nils (Alma Cornelia Berglund)
+cat__Name_Panula, Master. Eino Viljami
+cat__Name_Panula, Master. Urho Abraham
+cat__Name_Panula, Mrs. Juha (Maria Emilia Ojala)
+cat__Name_Pavlovic, Mr. Stefo
+cat__Name_Pears, Mr. Thomas Clinton
+cat__Name_Peduzzi, Mr. Joseph
+cat__Name_Pernot, Mr. Rene
+cat__Name_Perreault, Miss. Anne
+cat__Name_Persson, Mr. Ernst Ulrik
+cat__Name_Peter, Miss. Anna
+cat__Name_Peters, Miss. Katie
+cat__Name_Petranec, Miss. Matilda
+cat__Name_Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")
+cat__Name_Pickard, Mr. Berk (Berk Trembisky)
+cat__Name_Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)
+cat__Name_Quick, Miss. Phyllis May
+cat__Name_Razi, Mr. Raihed
+cat__Name_Renouf, Mr. Peter Henry
+cat__Name_Renouf, Mrs. Peter Henry (Lillian Jefferys)
+cat__Name_Rice, Master. Arthur
+cat__Name_Richards, Master. George Sibley
+cat__Name_Richards, Master. William Rowe
+cat__Name_Ridsdale, Miss. Lucy
+cat__Name_Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)
+cat__Name_Rogers, Mr. William John
+cat__Name_Ross, Mr. John Hugo
+cat__Name_Saad, Mr. Amin
+cat__Name_Sage, Master. Thomas Henry
+cat__Name_Sage, Miss. Constance Gladys
+cat__Name_Sage, Miss. Dorothy Edith "Dolly"
+cat__Name_Sage, Mr. George John Jr
+cat__Name_Sagesser, Mlle. Emma
+cat__Name_Salkjelsvik, Miss. Anna Kristine
+cat__Name_Salonen, Mr. Johan Werner
+cat__Name_Sdycoff, Mr. Todor
+cat__Name_Sedgwick, Mr. Charles Frederick Waddington
+cat__Name_Shorney, Mr. Charles Joseph
+cat__Name_Shutes, Miss. Elizabeth W
+cat__Name_Silvey, Mr. William Baird
+cat__Name_Simonius-Blumer, Col. Oberst Alfons
+cat__Name_Sivic, Mr. Husein
+cat__Name_Sivola, Mr. Antti Wilhelm
+cat__Name_Sjostedt, Mr. Ernst Adolf
+cat__Name_Skoog, Miss. Mabel
+cat__Name_Slabenoff, Mr. Petco
+cat__Name_Slemen, Mr. Richard James
+cat__Name_Slocovski, Mr. Selman Francis
+cat__Name_Soholt, Mr. Peter Andreas Lauritz Andersen
+cat__Name_Stewart, Mr. Albert A
+cat__Name_Strom, Miss. Telma Matilda
+cat__Name_Strom, Mrs. Wilhelm (Elna Matilda Persson)
+cat__Name_Svensson, Mr. Olof
+cat__Name_Thayer, Mr. John Borland
+cat__Name_Theobald, Mr. Thomas Leonard
+cat__Name_Toomey, Miss. Ellen
+cat__Name_Touma, Mrs. Darwis (Hanne Youssef Razi)
+cat__Name_Turcin, Mr. Stjepan
+cat__Name_Turpin, Mr. William John Robert
+cat__Name_Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+cat__Name_Vande Velde, Mr. Johannes Joseph
+cat__Name_Vande Walle, Mr. Nestor Cyriel
+cat__Name_Walker, Mr. William Anderson
+cat__Name_Warren, Mrs. Frank Manley (Anna Sophia Atkinson)
+cat__Name_Webber, Mr. James
+cat__Name_Weir, Col. John
+cat__Name_Wick, Miss. Mary Natalie
+cat__Name_Widegren, Mr. Carl/Charles Peter
+cat__Name_Willey, Mr. Edward
+cat__Name_Williams-Lambert, Mr. Fletcher Fellows
+cat__Name_Zabour, Miss. Thamine
+cat__Name_de Pelsmaeker, Mr. Alfons
+cat__Name_van Billiard, Mr. Austin Blyler
+cat__Sex_male
+cat__Ticket_110152
+cat__Ticket_110413
+cat__Ticket_110813
+cat__Ticket_111240
+cat__Ticket_111361
+cat__Ticket_112053
+cat__Ticket_112058
+cat__Ticket_112379
+cat__Ticket_113055
+cat__Ticket_113059
+cat__Ticket_113767
+cat__Ticket_113776
+cat__Ticket_113781
+cat__Ticket_113783
+cat__Ticket_113798
+cat__Ticket_113800
+cat__Ticket_113804
+cat__Ticket_11668
+cat__Ticket_11751
+cat__Ticket_11765
+cat__Ticket_11774
+cat__Ticket_11967
+cat__Ticket_12749
+cat__Ticket_13213
+cat__Ticket_13567
+cat__Ticket_14313
+cat__Ticket_1601
+cat__Ticket_16966
+cat__Ticket_16988
+cat__Ticket_17421
+cat__Ticket_17453
+cat__Ticket_17463
+cat__Ticket_17466
+cat__Ticket_17474
+cat__Ticket_19877
+cat__Ticket_19943
+cat__Ticket_19950
+cat__Ticket_2223
+cat__Ticket_223596
+cat__Ticket_226593
+cat__Ticket_230136
+cat__Ticket_231919
+cat__Ticket_231945
+cat__Ticket_233866
+cat__Ticket_234604
+cat__Ticket_234818
+cat__Ticket_237668
+cat__Ticket_24160
+cat__Ticket_243847
+cat__Ticket_243880
+cat__Ticket_244252
+cat__Ticket_248706
+cat__Ticket_248727
+cat__Ticket_250647
+cat__Ticket_250649
+cat__Ticket_250653
+cat__Ticket_250655
+cat__Ticket_2620
+cat__Ticket_2625
+cat__Ticket_2631
+cat__Ticket_26360
+cat__Ticket_2641
+cat__Ticket_2647
+cat__Ticket_2648
+cat__Ticket_2650
+cat__Ticket_2653
+cat__Ticket_2664
+cat__Ticket_2665
+cat__Ticket_2666
+cat__Ticket_2667
+cat__Ticket_2668
+cat__Ticket_2672
+cat__Ticket_2677
+cat__Ticket_2678
+cat__Ticket_2680
+cat__Ticket_2686
+cat__Ticket_2697
+cat__Ticket_27042
+cat__Ticket_27849
+cat__Ticket_28206
+cat__Ticket_28213
+cat__Ticket_28228
+cat__Ticket_28403
+cat__Ticket_28665
+cat__Ticket_29103
+cat__Ticket_29105
+cat__Ticket_29106
+cat__Ticket_29751
+cat__Ticket_3101264
+cat__Ticket_3101265
+cat__Ticket_3101276
+cat__Ticket_3101277
+cat__Ticket_3101281
+cat__Ticket_3101298
+cat__Ticket_31027
+cat__Ticket_312991
+cat__Ticket_315093
+cat__Ticket_315097
+cat__Ticket_330909
+cat__Ticket_330923
+cat__Ticket_330959
+cat__Ticket_334912
+cat__Ticket_335097
+cat__Ticket_335677
+cat__Ticket_341826
+cat__Ticket_343095
+cat__Ticket_343276
+cat__Ticket_345763
+cat__Ticket_345767
+cat__Ticket_345777
+cat__Ticket_345781
+cat__Ticket_347054
+cat__Ticket_347061
+cat__Ticket_347062
+cat__Ticket_347063
+cat__Ticket_347074
+cat__Ticket_347078
+cat__Ticket_347082
+cat__Ticket_347087
+cat__Ticket_347088
+cat__Ticket_3474
+cat__Ticket_347466
+cat__Ticket_347470
+cat__Ticket_347743
+cat__Ticket_349201
+cat__Ticket_349205
+cat__Ticket_349213
+cat__Ticket_349214
+cat__Ticket_349217
+cat__Ticket_349224
+cat__Ticket_349225
+cat__Ticket_349231
+cat__Ticket_349234
+cat__Ticket_349240
+cat__Ticket_349241
+cat__Ticket_349247
+cat__Ticket_349249
+cat__Ticket_349253
+cat__Ticket_349256
+cat__Ticket_349909
+cat__Ticket_350026
+cat__Ticket_350035
+cat__Ticket_350047
+cat__Ticket_350406
+cat__Ticket_35273
+cat__Ticket_35281
+cat__Ticket_35851
+cat__Ticket_358585
+cat__Ticket_363294
+cat__Ticket_364511
+cat__Ticket_364848
+cat__Ticket_364849
+cat__Ticket_36568
+cat__Ticket_367226
+cat__Ticket_367229
+cat__Ticket_367230
+cat__Ticket_36864
+cat__Ticket_36866
+cat__Ticket_36947
+cat__Ticket_36967
+cat__Ticket_36973
+cat__Ticket_370377
+cat__Ticket_371060
+cat__Ticket_371110
+cat__Ticket_372622
+cat__Ticket_373450
+cat__Ticket_374910
+cat__Ticket_376564
+cat__Ticket_376566
+cat__Ticket_382649
+cat__Ticket_382652
+cat__Ticket_392091
+cat__Ticket_394140
+cat__Ticket_4133
+cat__Ticket_4136
+cat__Ticket_5727
+cat__Ticket_65303
+cat__Ticket_7540
+cat__Ticket_7546
+cat__Ticket_7553
+cat__Ticket_8471
+cat__Ticket_A./5. 2152
+cat__Ticket_A./5. 3235
+cat__Ticket_A.5. 11206
+cat__Ticket_A/4. 20589
+cat__Ticket_A/5 21171
+cat__Ticket_A/5 21172
+cat__Ticket_A/5. 10482
+cat__Ticket_A/5. 13032
+cat__Ticket_A/5. 2151
+cat__Ticket_A/5. 3336
+cat__Ticket_A/5. 851
+cat__Ticket_C 4001
+cat__Ticket_C.A. 2315
+cat__Ticket_C.A. 24580
+cat__Ticket_C.A. 2673
+cat__Ticket_C.A. 29178
+cat__Ticket_C.A. 29566
+cat__Ticket_C.A. 31026
+cat__Ticket_C.A. 31921
+cat__Ticket_CA 2144
+cat__Ticket_CA. 2314
+cat__Ticket_CA. 2343
+cat__Ticket_F.C. 12750
+cat__Ticket_F.C.C. 13529
+cat__Ticket_F.C.C. 13531
+cat__Ticket_P/PP 3381
+cat__Ticket_PC 17476
+cat__Ticket_PC 17477
+cat__Ticket_PC 17569
+cat__Ticket_PC 17582
+cat__Ticket_PC 17585
+cat__Ticket_PC 17590
+cat__Ticket_PC 17593
+cat__Ticket_PC 17595
+cat__Ticket_PC 17596
+cat__Ticket_PC 17599
+cat__Ticket_PC 17610
+cat__Ticket_PC 17611
+cat__Ticket_PC 17612
+cat__Ticket_PC 17755
+cat__Ticket_PC 17757
+cat__Ticket_PC 17760
+cat__Ticket_PC 17761
+cat__Ticket_PP 4348
+cat__Ticket_S.C./A.4. 23567
+cat__Ticket_S.C./PARIS 2079
+cat__Ticket_S.O.C. 14879
+cat__Ticket_SC/PARIS 2131
+cat__Ticket_SC/PARIS 2133
+cat__Ticket_SC/PARIS 2146
+cat__Ticket_SC/Paris 2123
+cat__Ticket_SOTON/O.Q. 392078
+cat__Ticket_SOTON/OQ 392090
+cat__Ticket_STON/O 2. 3101275
+cat__Ticket_STON/O 2. 3101285
+cat__Ticket_W./C. 14258
+cat__Ticket_W./C. 14263
+cat__Ticket_W/C 14208
+cat__Cabin_A14
+cat__Cabin_A16
+cat__Cabin_A34
+cat__Cabin_B101
+cat__Cabin_B20
+cat__Cabin_B3
+cat__Cabin_B35
+cat__Cabin_B41
+cat__Cabin_B49
+cat__Cabin_B50
+cat__Cabin_B73
+cat__Cabin_B96 B98
+cat__Cabin_C111
+cat__Cabin_C128
+cat__Cabin_C2
+cat__Cabin_C23 C25 C27
+cat__Cabin_C47
+cat__Cabin_C49
+cat__Cabin_C50
+cat__Cabin_C62 C64
+cat__Cabin_C65
+cat__Cabin_C7
+cat__Cabin_C91
+cat__Cabin_C92
+cat__Cabin_C99
+cat__Cabin_D
+cat__Cabin_D20
+cat__Cabin_D35
+cat__Cabin_D45
+cat__Cabin_D56
+cat__Cabin_D9
+cat__Cabin_E12
+cat__Cabin_E17
+cat__Cabin_E24
+cat__Cabin_E31
+cat__Cabin_E33
+cat__Cabin_E44
+cat__Cabin_E50
+cat__Cabin_E58
+cat__Cabin_E67
+cat__Cabin_F E69
+cat__Cabin_F G63
+cat__Cabin_F2
+cat__Cabin_F33
+cat__Cabin_T

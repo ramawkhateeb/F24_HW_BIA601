@@ -1,0 +1,138 @@
+body {
+    font-family: "Cairo", sans-serif;
+    background: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    color: #2f3640;
+}
+
+header {
+    background: linear-gradient(90deg, #273c75, #40739e);
+    color: white;
+    text-align: center;
+    padding: 1.2rem 0;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    
+}
+
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+section {
+    margin-bottom: 1.5rem;
+}
+
+input[type="file"],
+input[type="number"] {
+    display: block;
+    margin: 0.7rem 0 1rem;
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+button {
+    background: #273c75;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    font-size: 1rem;
+}
+
+button:hover {
+    background: #40739e;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #eee;
+    margin: 1.5rem 0;
+}
+
+.results {
+    margin-top: 2rem;
+}
+
+.card {
+    background: #f0f2f5;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    border-left: 5px solid #273c75;
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+canvas {
+    margin-top: 2rem;
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #273c75;
+    color: white;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#uploadStatus {
+color: #40739e;
+font-weight: bold;
+}
+
+.buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.supervision-bar {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    margin: 1rem 2rem;
+    position: relative;
+}
+
+.logo-container {
+    justify-self: start;
+}
+
+.supervision-text {
+    justify-self: center;
+    font-style: italic;
+    color: #40739e;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    border-radius: 6px;
+}

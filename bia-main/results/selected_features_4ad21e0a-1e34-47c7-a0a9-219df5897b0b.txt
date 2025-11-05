@@ -1,0 +1,4 @@
+num__mean texture
+num__mean symmetry
+num__worst area
+num__worst smoothness
